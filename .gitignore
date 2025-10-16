@@ -1,0 +1,21 @@
+# Java build files
+*.class
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+out/
+bin/
+target/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JARs (optional)
+# Uncomment if you don’t want to upload large library files
+# *.jar
