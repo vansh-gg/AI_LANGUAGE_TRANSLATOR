@@ -41,7 +41,7 @@ CREATE TABLE history (
   to_lang VARCHAR(50),
   translated_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
+```
 ## 🖼️ Screenshot
 
 ![App Screenshot](screenshots/translator_ui.png)
